@@ -4,23 +4,23 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">Welcome!</string>
-  <string name="save_as">Save as...</string>
-  <string name="view">View</string>
-  <string name="about">About...</string>
-  <string name="about_me">About Me</string>
-  <string name="current_password">Current Password</string>
-  <string name="new_password">New Password</string>
-  <string name="confirm_password">Confirm New Password</string>
-  <string name="change_password">Change Password</string>
-  <string name="password_recovery">Password recovery</string>
-  <string name="password_reset_success">Your password has been reset successfully!</string>
-  <string name="read_message">Read message</string>
-  <string name="confirm_delete">Are you sure you want to delete this message?</string>
-  <string name="search_in_messages">Search in messages</string>
-  <string name="compose_message">Compose Message</string>
-  <string name="no_date">No date provided</string>
-  <string name="quick_start">Quick Start</string>
-  <string name="Bye!">Bye!</string>
-  <string name="Welcome!">Welcome!</string>
+  <string name="welcome">Вітаємо!</string>
+  <string name="save_as">Зберегти як...</string>
+  <string name="view">Дивитись</string>
+  <string name="about">Про...</string>
+  <string name="about_me">Про мене</string>
+  <string name="current_password">Поточний пароль</string>
+  <string name="new_password">Новий пароль</string>
+  <string name="confirm_password">Підтвердіть новий пароль</string>
+  <string name="change_password">Зміна пароля</string>
+  <string name="password_recovery">Відновлення пароля</string>
+  <string name="password_reset_success">Ваш пароль успішно скинуто!</string>
+  <string name="read_message">Прочитане повідомлення</string>
+  <string name="confirm_delete">Ви впевнені, що хочете видалити це повідомлення?</string>
+  <string name="search_in_messages">Пошук у повідомленнях</string>
+  <string name="compose_message">Написати нове повідомлення</string>
+  <string name="no_date">Дата не вказана</string>
+  <string name="quick_start">Швидкий Старт</string>
+  <string name="Bye!">Па-па!</string>
+  <string name="Welcome!">Вітаємо!</string>
 </resources>
