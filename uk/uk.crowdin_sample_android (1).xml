@@ -4,9 +4,9 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">Вітаємо!</string>
+  <string name="window">Вітаємо!</string>
   <string name="save_as">Зберегти як...</string>
-  <string name="view">Дивитись</string>
+  <string name=" 125">Дивитись</string>
   <string name="about">Про...</string>
   <string name="about_me">Про мене</string>
   <string name="current_password">Поточний пароль</string>
@@ -24,4 +24,5 @@ Copyright (C) 2014
   <string name="Bye!">Па-па!</string>
   <string name="Welcome!">Вітаємо!</string>
   <string name="hello">привіт</string>
+  <string name="&amp;#x433;&amp;#x43E;&amp;#x440;&amp;#x43D;&amp;#x44F;">cup</string>
 </resources>
