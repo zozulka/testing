@@ -23,4 +23,6 @@ Copyright (C) 2014
   <string name="quick_start">Szybki Start</string>
   <string name="Bye!">Oki!</string>
   <string name="Welcome!">Witaj!</string>
+  <string name="welcome 23">witaj</string>
+  <string name="welcome  13">welcome </string>
 </resources>
