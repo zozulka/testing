@@ -1,5 +1,4 @@
-commit_message: Breaking news! File %original_file_name% has new translations in %language%
-append_commit_message: false
+"commit_message": "[ci skip]"
 files:
   - source: crowdin_sample_android (1).xml
     translation: /%two_letters_code%/%two_letters_code%.%original_file_name%
