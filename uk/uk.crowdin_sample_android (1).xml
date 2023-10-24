@@ -4,11 +4,11 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">тестування</string>
-  <string name="save_as">Зберегти як...fjhnoikjnlk</string>
-  <string name="view">тестуємо мови</string>
-  <string name="about">Про...</string>
-  <string name="about_me">Про мене</string>
+  <string name="welcome">hv gnchgvj,hk.bfnc</string>
+  <string name="save_as">Зберегти новий текст як...</string>
+  <string name="view">Дивитись</string>
+  <string name="about">тестуємо зміни туть</string>
+  <string name="about_me">і тут зміни</string>
   <string name="current_password">Поточний пароль</string>
   <string name="new_password">Новий пароль</string>
   <string name="confirm_password">Підтвердіть новий пароль</string>
