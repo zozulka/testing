@@ -1,5 +1,5 @@
-"commit_message": "[ci skip]"
+commit_message: '[ci skip]'
 files:
-  - source: crowdin_sample_android (1).xml
+  - source: '*.*'
     translation: /%two_letters_code%/%two_letters_code%.%original_file_name%
     translate_attributes: 0
