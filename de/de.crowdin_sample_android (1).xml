@@ -3,24 +3,4 @@
 Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
-<resources>
-  <string name="welcome">1!</string>
-  <string name="save_as">Speichern als...gvghj.kjknj.</string>
-  <string name="view">Ansicht</string>
-  <string name="about">Über...</string>
-  <string name="about_me">Über mich</string>
-  <string name="current_password">Aktuelles Passwort</string>
-  <string name="new_password">Neues Passwort</string>
-  <string name="confirm_password">Neues Passwort bestätigen</string>
-  <string name="change_password">Passwort ändern</string>
-  <string name="password_recovery">Passwort-Wiederherstellung</string>
-  <string name="password_reset_success">Ihr Passwort wurde erfolgreich zurückgesetzt!</string>
-  <string name="read_message">Nachricht lesen</string>
-  <string name="confirm_delete">Sind Sie sicher, dass Sie diese Nachricht löschen möchten?</string>
-  <string name="search_in_messages">In Nachrichten suchen</string>
-  <string name="compose_message">Nachricht verfassen</string>
-  <string name="no_date">Kein Datum angegeben</string>
-  <string name="quick_start">Schnellstart</string>
-  <string name="Bye!">Sie!</string>
-  <string name="Welcome!">Willkommen!</string>
-</resources>
+<resources></resources>
