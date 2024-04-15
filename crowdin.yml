@@ -2,3 +2,4 @@ commit_message: '[ci skip]'
 files:
   - source: crowdin_sample_android (1).xml
     translation: /translation/%locale%/%original_file_name%
+update_option": "update_without_changes
