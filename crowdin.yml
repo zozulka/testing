@@ -1,6 +1,4 @@
 commit_message: '[ci skip]'
 files:
-  - source: crowdin_sample_webpage (1).html
+  - source: crowdin_sample_android (1).xml
     translation: /translation/%locale%/%original_file_name%
-  - source: '*.json'
-    translation: /folder/%two_letters_code%/%original_file_name%
