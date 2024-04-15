@@ -4,7 +4,7 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">Welcome pygggggggggy!</string>
+  <string name="welcome">Ласкаво просимо pygggggy!</string>
   <string name="save_as">Save as new text...</string>
   <string name="view">View</string>
   <string name="about">About...</string>
