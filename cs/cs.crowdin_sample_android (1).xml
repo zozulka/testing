@@ -3,4 +3,24 @@
 Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
-<resources></resources>
+<resources>
+  <string name="welcome">Test testu Welcomennnnnnnnnnnnnnnn!</string>
+  <string name="save_as">Uložit jako nový text...</string>
+  <string name="view">Zobrazit</string>
+  <string name="about">O tom...</string>
+  <string name="about_me">O mně</string>
+  <string name="current_password">Aktuální heslo</string>
+  <string name="new_password">Nové heslo</string>
+  <string name="confirm_password">Potvrdit nové heslo</string>
+  <string name="change_password">Změnit heslo</string>
+  <string name="password_recovery">Obnovení hesla</string>
+  <string name="password_reset_success">Vaše heslo bylo úspěšně obnoveno!</string>
+  <string name="read_message">Přečíst zprávu</string>
+  <string name="confirm_delete">Jste si jisti, že chcete odstranit tuto zprávu?</string>
+  <string name="search_in_messages">Hledat ve zprávách</string>
+  <string name="compose_message">Napsat zprávu</string>
+  <string name="no_date">Nebylo zadáno žádné datum</string>
+  <string name="quick_start">Rychlý start</string>
+  <string name="Bye!">Čtvrt!</string>
+  <string name="Welcome!">Vítejte!</string>
+</resources>
