@@ -5,9 +5,9 @@ Copyright (C) 2014
 -->
 <resources>
   <string name="welcome">Welcome pygggggggggy and kittty!</string>
-  <string name="save_as">Save as new text...</string>
-  <string name="view">View</string>
-  <string name="about">About... abouttt</string>
+  <string name="save_as">зберегти новий текст</string>
+  <string name="view">Дивитись</string>
+  <string name="about">про прооо</string>
   <string name="about_me">About Me</string>
   <string name="current_password">Current Password</string>
   <string name="new_password">New Password</string>
