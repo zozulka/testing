@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+<resources>
+  <string name="welcome">Ласкаво просимо pygggggy і змінять!</string>
+  <string name="save_as">Зберегти новий текст як...</string>
+  <string name="view">Дивитись</string>
+  <string name="about">Про... Абутт</string>
+  <string name="about_me">і тут зміни</string>
+  <string name="current_password">Поточний пароль</string>
+  <string name="new_password">Новий пароль</string>
+  <string name="confirm_password">Підтвердіть новий пароль</string>
+  <string name="change_password">Зміна пароля</string>
+  <string name="password_recovery">Відновлення пароля</string>
+  <string name="password_reset_success">Ваш пароль успішно скинуто!</string>
+  <string name="read_message">Прочитане повідомлення</string>
+  <string name="confirm_delete">Ви впевнені, що хочете видалити це повідомлення?</string>
+  <string name="search_in_messages">Пошук у повідомленнях</string>
+  <string name="compose_message">Написати нове повідомлення</string>
+  <string name="no_date">Дата не вказана</string>
+  <string name="quick_start">Швидкий Старт</string>
+  <string name="Bye!">Па-па!</string>
+  <string name="Welcome!">Вітаємо!</string>
+</resources>
