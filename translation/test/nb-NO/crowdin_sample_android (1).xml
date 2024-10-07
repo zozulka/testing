@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+<resources>
+  <string name="welcome">Velkommen pygggggggy og kattty!</string>
+  <string name="save_as">Lagre som ny tekst...</string>
+  <string name="view">Vis</string>
+  <string name="about">Om... om</string>
+  <string name="about_me">Om meg</string>
+  <string name="current_password">Nåværende passord</string>
+  <string name="new_password">Nytt passord</string>
+  <string name="confirm_password">Bekreft nytt passord</string>
+  <string name="change_password">Endre passord</string>
+  <string name="password_recovery">Glemt passord?</string>
+  <string name="password_reset_success">Ditt passord har blitt tilbakestilt!</string>
+  <string name="read_message">Les melding</string>
+  <string name="confirm_delete">Er du sikker på at du vil slette denne meldingen?</string>
+  <string name="search_in_messages">Søk i meldinger</string>
+  <string name="compose_message">Skriv melding</string>
+  <string name="no_date">Ingen dato gitt</string>
+  <string name="quick_start">Kjapp start</string>
+  <string name="Bye!">Ha det!</string>
+  <string name="Welcome!">Velkommen!</string>
+</resources>
