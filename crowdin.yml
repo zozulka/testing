@@ -3,3 +3,5 @@ commit_message: '[ci skip]'
 files:
   - source: crowdin_sample_android (1).xml
     translation: /translation/test/%locale%/%original_file_name%
+  - source: '*.docx'
+    translation: translations/%original_file_name%_%two_letters_code%
