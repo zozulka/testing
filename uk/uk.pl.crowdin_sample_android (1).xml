@@ -6,7 +6,7 @@ Copyright (C) 2014
 <resources>
   <string name="welcome">2!</string>
   <string name="save_as">Zapisz jako...</string>
-  <string name="view">тестуємо мови</string>
+  <string name="view">Widok</string>
   <string name="about">O aplikacji...</string>
   <string name="about_me">O mnie</string>
   <string name="current_password">Bieżące hasło</string>
